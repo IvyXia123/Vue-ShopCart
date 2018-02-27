@@ -1,0 +1,33 @@
+{
+  "status":1,
+  "result":{
+    "totalMoney":59,
+    "list":[{
+      "productId":"60000001",
+      "productName":"一品梅香烟",
+      "productPrice":19,
+      "productQuantity":1,
+      "productImg":"./../assets/01.png",
+      "parts":[
+        {
+        "partsId":"10001",
+        "partsName":"打火机"
+      },{
+          "partsId":"10002",
+          "partsName":"火柴"
+      }]
+    },{
+      "productId":"60000002",
+      "productName":"五粮液美酒",
+      "productPrice":80,
+      "productQuantity":2,
+      "productImg":"./../assets/02.png",
+      "parts":[
+        {
+          "partsId":"20001",
+          "partsName":"酒杯"
+        }]
+    }]
+  },
+  "message":""
+}
